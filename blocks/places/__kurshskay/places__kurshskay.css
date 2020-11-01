@@ -1,0 +1,11 @@
+.places__kurshskay {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: min-content min-content;
+	gap: 40px;
+	margin-bottom: 80px;
+}
+
+.places__kurshskay:last-child {
+	margin-bottom: 92px;
+}

@@ -1,7 +1,5 @@
 .intro {
   color: white;
-  width: 690px;
-  height: 430px;
-  margin: 92px auto 0;
-  margin-left: calc(1280px - 690px - 442px);
+  width: 984px;
+  margin: 0 auto;
 }

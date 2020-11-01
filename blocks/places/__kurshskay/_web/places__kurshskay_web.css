@@ -1,0 +1,10 @@
+.places__kurshskay_web {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.places__kurshskay_web:hover {
+	text-decoration: underline;
+}
