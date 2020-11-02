@@ -2,6 +2,27 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
-  max-width: 1280px;
-  margin: 0 auto;
+  max-width: 1184px;
+  margin: 28px auto 0;
+}
+
+@media screen and (max-width: 1279px) {
+  .header {
+    max-width: 928px;
+    margin: 28px auto 0;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .header {
+    max-width: 720px;
+    margin: 28px auto 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    max-width: 288px;
+    margin: 16px auto 0;
+  }
 }

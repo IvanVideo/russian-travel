@@ -3,5 +3,12 @@
 	font-size: 12px;
 	line-height: 18px;
 	font-family: 'Inter-Regular';
+	margin: 33px 0 0;
 	padding: 0;
 }
+
+@media screen and (max-width: 767px) {
+	.intro__lists {
+		margin: 34px 0 0;
+	}
+  }
