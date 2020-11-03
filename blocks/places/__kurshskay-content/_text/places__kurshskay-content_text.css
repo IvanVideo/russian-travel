@@ -1,3 +1,10 @@
 .places__kurshskay-content_text:first-child {
 	margin: 0;
 }
+
+@media screen and (max-width: 767px) {
+	.places__kurshskay-content_text {
+		max-width: 288px;
+		margin: 0 auto;
+	}
+} 

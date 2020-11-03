@@ -23,8 +23,9 @@
 
 @media screen and (max-width: 767px) {
 	.places__kurshskay-title {
-		margin-bottom: 0px;
+		margin: 0 auto;
 		font-size: 32px;
 		line-height: 35px;
+		min-width: 288px;
 	}
 }

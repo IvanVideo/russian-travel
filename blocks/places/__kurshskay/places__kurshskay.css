@@ -24,6 +24,8 @@
 
 @media screen and (max-width: 767px) {
 	.places__kurshskay {
+	grid-template-columns: 1fr;
+	grid-template-rows: min-content min-content;
 	gap: 32px;
 	}
 } 

@@ -5,3 +5,10 @@
   margin: 8px 0 0;
   align-self: start;
 }
+
+@media screen and (max-width: 767px) {
+  .intro__under-text {
+    min-width: 158px;
+    margin: 8px 0 0 16px;
+  }
+}
