@@ -7,4 +7,7 @@
 		max-width: 288px;
 		margin: 0 auto;
 	}
+	.places__kurshskay-content_text:first-of-type {
+		margin-bottom: 25px;
+	}
 } 

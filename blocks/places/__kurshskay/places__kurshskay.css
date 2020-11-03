@@ -27,5 +27,9 @@
 	grid-template-columns: 1fr;
 	grid-template-rows: min-content min-content;
 	gap: 32px;
+	width: 100%;
+	}
+	.places__kurshskay-link {
+		display: none;
 	}
 } 

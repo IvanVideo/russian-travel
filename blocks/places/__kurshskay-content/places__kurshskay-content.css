@@ -8,5 +8,14 @@
 	.places__kurshskay-content {
 		max-width: 288px;
 		margin: 0 auto;
+		font-size: 16px;
+		line-height: 163%;
+	}
+} 
+
+@media screen and (max-width: 1023px) {
+	.places__kurshskay-content {
+		font-size: 16px;
+		line-height: 163%;
 	}
 } 

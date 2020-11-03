@@ -4,11 +4,20 @@
   font-family: 'Inter-Regular';
   margin: 8px 0 0;
   align-self: start;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
 }
 
 @media screen and (max-width: 767px) {
-  .intro__under-text {
-    min-width: 158px;
+  .lead__under-text {
+    max-width: 320px;
     margin: 8px 0 0 16px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__under-text {
+    max-width: 768px;
+    margin: 8px 0 0 24px;
   }
 }
