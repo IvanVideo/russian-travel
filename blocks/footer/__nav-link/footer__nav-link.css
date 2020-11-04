@@ -1,8 +1,5 @@
 .footer__nav-link {
 	text-decoration: none;
 	color: white;
-}
-
-.footer__nav-link {
 	cursor: url('../../../images/Layers.png'), pointer;
 }
