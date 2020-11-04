@@ -1,4 +1,4 @@
-.header__links_link {
+.links__link {
     text-decoration: none;
       font-size: 24px;
       line-height: 28px;
@@ -7,16 +7,16 @@
       color: white;
   }
   
-  .header__links_link:last-child {
+  .links__link:last-child {
       margin-right: 0;
   }
   
-  .header__links_link:hover {
+  .links__link:hover {
       text-decoration: underline;
   }
 
   @media screen and (max-width: 767px) {
-    .header__links_link {
+    .links__link {
         font-size: 18px;
         line-height: 20px;
     }

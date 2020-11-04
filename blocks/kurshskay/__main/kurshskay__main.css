@@ -1,0 +1,21 @@
+.kurshskay__main {
+    font-size: 18px;
+      line-height: 163%;
+      font-family: 'Inter-Regular';
+  }
+  
+  @media screen and (max-width: 767px) {
+      .kurshskay__main {
+          max-width: 288px;
+          margin: 0 auto;
+          font-size: 16px;
+          line-height: 163%;
+      }
+  } 
+  
+  @media screen and (max-width: 1023px) {
+      .kurshskay__main {
+          font-size: 16px;
+          line-height: 163%;
+      }
+  } 

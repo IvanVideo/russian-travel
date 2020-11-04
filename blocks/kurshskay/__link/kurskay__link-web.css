@@ -1,0 +1,11 @@
+.kurshskay__link-web {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.kurshskay__link-web:hover {
+	text-decoration: underline;
+	cursor: url('../../../images/Layers.png'), pointer;
+}

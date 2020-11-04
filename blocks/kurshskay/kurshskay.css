@@ -1,4 +1,4 @@
-.places__kurshskay {
+.kurshskay {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	grid-template-rows: min-content min-content;
@@ -6,7 +6,7 @@
 	margin-bottom: 80px;
 }
 
-.places__kurshskay:last-child {
+.kurshskay:last-child {
 	margin-bottom: 92px;
 }
 
@@ -17,20 +17,20 @@
 }
 
 @media screen and (max-width: 1023px) {
-	.places__kurshskay {
+	.kurshskay {
 		grid-row-gap: 48px;
 		grid-column-gap: 28px;
 	}
 } 
 
 @media screen and (max-width: 767px) {
-	.places__kurshskay {
+	.kurshskay {
 	grid-template-columns: 1fr;
 	grid-template-rows: min-content min-content;
 	gap: 32px;
 	width: 100%;
 	}
-	.places__kurshskay-link {
+	.kurshskay-link {
 		display: none;
 	}
 } 

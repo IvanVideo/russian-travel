@@ -1,4 +1,4 @@
-.footer__nav {
+.nav {
 	display: flex;
 	font-size: 16px;
 	line-height: 18px;
@@ -8,7 +8,7 @@
 }
 
 @media screen and (max-width: 767px) {
-	.footer__nav {
+	.nav {
 		max-width: 186px;
 
 		flex-direction: column;
