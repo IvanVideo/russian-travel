@@ -7,4 +7,5 @@
 
 .places__kurshskay_web:hover {
 	text-decoration: underline;
+	cursor: url('../../../../images/Layers.png'), pointer;
 }

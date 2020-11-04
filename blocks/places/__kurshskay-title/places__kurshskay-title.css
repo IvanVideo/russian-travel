@@ -4,18 +4,15 @@
 	font-family: 'Inter-Black';
 	align-self: end;
 	margin: 0;
-	margin-bottom: 8px;
 }
 
 @media screen and (max-width: 1279px) {
 	.places__kurshskay-title {
-		margin-bottom: 16px;
 	}
 }
 
 @media screen and (max-width: 1023px) {
 	.places__kurshskay-title {
-		margin-bottom: 20px;
 		font-size: 42px;
 		line-height: 46px;
 		max-width: 340px;
