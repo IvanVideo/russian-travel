@@ -1,11 +1,11 @@
-.link__web {
+.web {
 	text-decoration: none;
 	color: white;
 	font-size: 18px;
 	line-height: 22px;
 }
 
-.link__web:hover {
+.web:hover {
 	text-decoration: underline;
-	cursor: url('../../../images/Layers.png'), pointer;
+	cursor: url('../../images/Layers.png'), pointer;
 }
