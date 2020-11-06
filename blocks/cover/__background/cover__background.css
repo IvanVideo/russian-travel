@@ -4,11 +4,13 @@
     text-decoration: none;
     color: white;
     width: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    justify-content: center;
 }
 
 .cover__background:hover {
-    background: rgba(0, 0, 0, 0.3);
-    cursor: url('../../../images/Layers.png'), pointer;
+    background: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
 }
 
 @media screen and (max-width: 1023px) {

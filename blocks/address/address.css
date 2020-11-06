@@ -1,28 +1,20 @@
-.place__link {
+.address {
     align-self: end;
     font-size: 12px;
     line-height: 12px;
     color: #AAAAAA;
-    font-family: 'Inter-Regular';
-  }
-  
-  @media screen and (max-width: 1279px) {
-      .place__link {
-  
-      }
+    font-family: 'Inter';
   }
   
   @media screen and (max-width: 1023px) {
-      .place__link {
+      .address {
       font-size: 16px;
       line-height: 163%;
       }
   }
   
   @media screen and (max-width: 767px) {
-      .place__link {
-      font-size: 16px;
-      line-height: 163%;
+      .address {
       display: none;
     }
   }

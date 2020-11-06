@@ -1,13 +1,13 @@
-.text:first-child {
+.content__text:first-child {
 	margin: 0;
 }
 
 @media screen and (max-width: 767px) {
-	.text {
+	.content__text {
 		max-width: 288px;
 		margin: 0 auto;
 	}
-	.text:first-of-type {
+	.content__text:first-of-type {
 		margin-bottom: 25px;
 	}
 } 

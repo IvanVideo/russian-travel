@@ -2,17 +2,12 @@
     text-decoration: none;
       font-size: 24px;
       line-height: 28px;
-      margin-right: 18px;
-      font-family: 'Inter-Regular';
+      font-family: 'Inter';
       color: white;
   }
   
-  .links__link:last-child {
-      margin-right: 0;
-  }
-  
   .links__link:hover {
-      text-decoration: underline;
+    opacity: 0.8;
   }
 
   @media screen and (max-width: 767px) {

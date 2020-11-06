@@ -3,3 +3,7 @@
 	color: white;
 	cursor: url('../../../images/Layers.png'), pointer;
 }
+
+.nav__link:hover {
+	opacity: 0.8;
+}

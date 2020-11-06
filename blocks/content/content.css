@@ -1,0 +1,18 @@
+.content {
+    font-size: 18px;
+      line-height: 163%;
+      font-family: 'Inter';
+  }
+    
+  @media screen and (max-width: 1023px) {
+    .content {
+        font-size: 16px;
+        line-height: 163%;
+    }
+} 
+  @media screen and (max-width: 767px) {
+      .content {
+          max-width: 288px;
+          margin: 0 auto;
+      }
+  } 

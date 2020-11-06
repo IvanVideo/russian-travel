@@ -1,0 +1,12 @@
+.address__web {
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	line-height: 22px;
+	text-decoration: underline;
+}
+
+.address__web:hover {
+	cursor: url('../../../images/Layers.png'), pointer;
+	opacity: 0.8;
+}

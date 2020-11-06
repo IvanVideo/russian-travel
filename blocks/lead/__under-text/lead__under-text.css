@@ -1,7 +1,7 @@
 .lead__under-text {
   font-size: 10px;
   line-height: 14px;
-  font-family: 'Inter-Regular';
+  font-family: 'Inter';
   margin: 8px 0 0;
   align-self: start;
   letter-spacing: 0.15em;
@@ -11,13 +11,13 @@
 @media screen and (max-width: 767px) {
   .lead__under-text {
     max-width: 320px;
-    margin: 8px 0 0 16px;
+    margin-left: 16px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .lead__under-text {
     max-width: 768px;
-    margin: 8px 0 0 24px;
+    margin-left: 24px;
   }
 }
