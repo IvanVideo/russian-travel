@@ -1,7 +1,6 @@
 .links__list {
     list-style: none;
     margin-right: 18px;
-    font-weight: 700;
 }
 
 .links__list:last-child {
