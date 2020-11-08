@@ -20,7 +20,7 @@
   .photo-grid {
     max-width: 720px;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: repeat(6, 1fr);
     gap: 16px;
     margin-top: 88px;
   }
@@ -30,7 +30,7 @@
   .photo-grid {
     max-width: 288px;
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: repeat(12, 1fr);
     gap: 12px;
     margin-top: 64px;
   }

@@ -1,13 +1,12 @@
 .content {
     font-size: 18px;
       line-height: 163%;
-      font-family: 'Inter';
+      font-family: 'Inter', 'Arial', sans-serif;
   }
     
   @media screen and (max-width: 1023px) {
     .content {
         font-size: 16px;
-        line-height: 163%;
     }
 } 
   @media screen and (max-width: 767px) {

@@ -1,13 +1,5 @@
 .links__link_active {
     text-decoration: underline;
-    font-size: 24px;
-    line-height: 28px;
-    font-family: 'Inter';
-    color: white;
-}
-
-.links__link_active:active {
-    text-decoration: underline;
 }
 
 .links__link_active:hover {
