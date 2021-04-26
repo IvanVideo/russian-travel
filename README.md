@@ -15,4 +15,4 @@ https://github.com/IvanVideo/russian-travel.git
 
 **Инструменты реализации**
 
-Проект создан исключительно инструментами html b CSS.
+HTML/CSS.
